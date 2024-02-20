@@ -46,8 +46,13 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li> -->
+
+    
   </ol>
 </details>
+
+
+
 
 
 ---
@@ -59,7 +64,9 @@
 
 
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ---
 
@@ -68,6 +75,8 @@
 <a href="https://www.figma.com/file/ePyCHKsx2ODB32uLgyUEEd/bootstrap-home-page?type=design&node-id=0%3A1&mode=design&t=edDzadCB9Ev5FS1a-1">Figma Link</a>  
 
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 
 ---
@@ -89,7 +98,7 @@ Google-Learning (folder)
 
 ### Built With
 
-
+ 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk  search skills-->
 
  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
