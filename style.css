@@ -9,14 +9,18 @@ header{
     background-image: url(./img/banner.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: bottom;
+    background-position: top;
 }
 
 
 .hero-content{
     padding-top: 17vw;
-    color: #800080;
+    color: #54574F;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hero-content h3, .hero-content h1{
+    text-shadow: 1px 1px 5px white;
 }
 
 
@@ -57,4 +61,20 @@ object-fit: cover;
     border: 8px solid rgb(147, 145, 145) !important;
 }
 .bug-tofix{object-position: bottom;
+}
+
+.logos img{
+    width: 100px !important;
+}
+
+
+section.contact{
+    background-image: url(./img/contact.jpeg);
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#commentsTextarea{
+    resize: none;
 }
