@@ -4,22 +4,22 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ibrsec/cafe-coffee/">
+  <a href="https://github.com/ibrsec/bootstrap-homepage/">
     <img src="./img/logo.png" alt="Logo" width="200" >
   </a>
 
-  <h3 align="center">Cafe Coffee</h3>
+  <h3 align="center">Bootstrap Home Page</h3>
 
   <p align="center">
-    An awesome Bootstrap Cafe Coffee Project
-    <a href="https://github.com/ibrsec/cafe-coffee"><strong>Explore the docs »</strong></a>
+    An awesome Bootstrap Home Page Project
+    <a href="https://github.com/ibrsec/bootstrap-homepage"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/cafe-coffee/">View Demo</a>
+    <a href="https://ibrsec.github.io/bootstrap-homepage/">View Demo</a>
     ·
-    <a href="https://github.com/ibrsec/cafe-coffee/issues">Report Bug</a>
+    <a href="https://github.com/ibrsec/bootstrap-homepage/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ibrsec/cafe-coffee/issues">Request Feature</a>
+    <a href="https://github.com/ibrsec/bootstrap-homepage/issues">Request Feature</a>
   </p>
 </div>
 
@@ -30,7 +30,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-     <!-- <li><a href="#figma">Figma</a></li> -->
+     <li><a href="#figma">Figma</a></li>
      <li><a href="#project-skeleton">Project Skeleton</a></li>
      <li><a href="#built-with">Built With</a></li>
     <!-- <li>
@@ -55,7 +55,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![cafe-coffee](./img/project.gif)](https://ibrsec.github.io/cafe-coffee/)
+[![bootstrap-homepage](./img/project.gif)](https://ibrsec.github.io/bootstrap-homepage/)
 
 
 
@@ -65,9 +65,9 @@
 
 ## Figma 
 
-<a href="https://www.figma.com/file/ePyCHKsx2ODB32uLgyUEEd/bootstrap-home-page?type=design&node-id=0%3A1&mode=design&t=edDzadCB9Ev5FS1a-1">Figma Link</a> -->
+<a href="https://www.figma.com/file/ePyCHKsx2ODB32uLgyUEEd/bootstrap-home-page?type=design&node-id=0%3A1&mode=design&t=edDzadCB9Ev5FS1a-1">Figma Link</a>  
 
-<!-- <p align="right">(<a href="#readme-top">back to top</a>)</p>
+  <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ---
