@@ -15,7 +15,7 @@
     <a href="https://github.com/ibrsec/bootstrap-homepage"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ibrsec.github.io/bootstrap-homepage/">View Demo</a>
+    <a href="https://bootstrap-homepage-eta.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/ibrsec/bootstrap-homepage/issues">Report Bug</a>
     ·
@@ -60,7 +60,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![bootstrap-homepage](./img/project.gif)](https://ibrsec.github.io/bootstrap-homepage/)
+[![bootstrap-homepage](./img/project.gif)](https://bootstrap-homepage-eta.vercel.app/)
 
 
 
